@@ -1,0 +1,212 @@
+Neuron,Lineage,Description,x-sphere,y-sphere,z-sphere
+IL2R,AB alaappppp,Inner labial neuron,-8.4398753,91.9005248,5.17762694
+IL2L,AB alapaappp,Inner labial neuron,-67.2621025,92.4348035,5.80967898
+IL2DR,AB alappppap,Inner labial neuron,14.7088498,92.7416346,5.49555819
+IL2VR,AB arapppppp,Inner labial neuron,83.9541519,98.5328461,4.76234736
+IL2DL,AB alapappap,Inner labial neuron,-35.7404859,97.1956736,6.02298948
+M2L,AB araapappa,Pharyngeal motorneurons,-85.7780939,80.7810635,5.20930668
+M3L,AB araapappp,Pharyngeal sensory-motorneurons,-67.7868534,76.648192,5.73270291
+M2R,AB araappppa,Pharyngeal motorneurons,14.9900141,85.8754863,4.84208504
+M3R,AB araappppp,Pharyngeal sensory-motorneurons,14.9900141,85.8754863,4.84208504
+DD4,AB prppapppa,Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during L1,5.1738379,192.5125459,102.3732091
+M4,MS paaaaaa,Pharyngeal motorneuron,4.85584918,10.1379523,88.7537969
+M5,MS paaapap,Pharyngeal motorneuron,4.85584918,10.1379523,88.7537969
+M1,MS paapaaa,Pharyngeal motorneuron,4.70211099,52.3612986,84.46326
+IL1R,AB alaappppaa,Inner labial neuron,-8.4398753,91.9005248,5.17762694
+IL1L,AB alapaappaa,Inner labial neuron,-67.2621025,92.4348035,5.80967898
+IL1DR,AB alappppaaa,Inner labial neuron,14.7088498,92.7416346,5.49555819
+MCL,AB alpaaappp,Pharyngeal neurons that synapse onto marginal cells,-85.7780939,80.7810635,5.20930668
+IL1VL,AB alppapppaa,Inner labial neuron,-32.4624408,67.7464346,6.04925994
+NSML,AB araapapaav,Pharyngeal neurosecretory motorneuron, contain serotonin,-31.0938922,87.8178523,4.92000285
+MI,AB araappaaa,Pharyngeal motor neuron/interneuron,14.9900141,85.8754863,4.84208504
+I5,AB arapapapp,Pharyngeal interneuron, post sensory,33.9367556,98.6410857,4.82213683
+IL1VR,AB arapppppaa,Inner labial neuron,83.9541519,98.5328461,4.76234736
+PVQL,AB plapppaaa,Interneuron, projects along ventral cord to ring,6.19395494,111.7583524,73.5240493
+PVPR,AB prppppaaa,Interneuron, cell body in preanal ganglion, projects along ventral cord to nerve ring,5.26471423,217.7654477,88.8015273
+I3,MS aaaaapaa,Pharyngeal interneuron, ant sensory,5.10557155,-44.4369393,81.4653275
+I4,MS aaaapaa,Pharyngeal interneuron,5.10557155,-44.4369393,81.4653275
+OLLL,AB alppppapaa,Lateral outer labial neurons,22.5140479,70.601541,5.58211985
+NSMR,AB araapppaav,Pharyngeal neurosecretory motorneuron, contain serotonin,14.9900141,85.8754863,4.84208504
+ADAL,AB plapaaaapp,Ring interneuron,6.20650492,15.5852678,90.0030087
+ADAR,AB prapaaaapp,Ring interneuron,5.82253435,115.5655835,112.4050612
+PVQR,AB prapppaaa,Interneuron, projects along ventral cord to ring,5.64377678,213.0416233,99.3856018
+IL1DL,AB alapappaaa,Inner labial neuron,-35.7404859,97.1956736,6.02298948
+SAADR,AB arapppapa,Ring interneuron, anteriorly projecting process that runs sublaterally,83.9541519,98.5328461,4.76234736
+SAAVL,AB plpaaaaaa,Ring interneuron, anteriorly projecting process that runs sublaterally,6.3084672,-14.7597005,63.2827196
+SABD,AB plppapaap,Ring interneuron, anteriorly projecting process that runs sublaterally, synapses to anterior body muscles in L1,6.12699794,93.3351441,65.9829629
+SAAVR,AB prpaaaaaa,Ring interneuron, anteriorly projecting process that runs sublaterally,4.88779475,93.0739383,107.8435456
+I6,MS paaapaa,Pharyngeal interneuron, post sensory,4.85584918,10.1379523,88.7537969
+SABVL,AB plppapaaaa,Ring interneuron, anteriorly projecting process that runs sublaterally, synapses to anterior body muscles in L1,6.12699794,93.3351441,65.9829629
+SABVR,AB prppapaaaa,Ring interneuron, anteriorly projecting process that runs sublaterally, synapses to anterior body muscles in L1,5.1738379,192.5125459,102.3732091
+RMED,AB alapppaap,Ring motor neuron,14.7088498,92.7416346,5.49555819
+SIADL,AB plpapaapa,Receive a few synapses in the ring, have posteriorly directed processes that run sublaterally,6.00616974,32.4173312,59.6881169
+SIBVL,AB plpapaapp,Similar to SIA,6.00616974,32.4173312,59.6881169
+SIAVL,AB plpapappa,Receive a few synapses in the ring, have posteriorly directed processes that run sublaterally,6.00616974,32.4173312,59.6881169
+SIBDL,AB plppaaaaa,Similar to SIA,6.26333381,54.9938958,64.5859714
+SIADR,AB prpapaapa,Receive a few synapses in the ring, have posteriorly directed processes that run sublaterally,4.80504319,136.2956753,100.9138592
+SIAVR,AB prpapappa,Receive a few synapses in the ring, have posteriorly directed processes that run sublaterally,4.80504319,136.2956753,100.9138592
+SIBDR,AB prppaaaaa,Similar to SIA,4.80504319,136.2956753,100.9138592
+RIAL,AB alapaapaa,Ring interneuron, many synapses,-67.2621025,92.4348035,5.80967898
+DB2,AB arappappa,Ventral cord motor neurons, innervate dorsal muscles, reciprocal inhibitor,52.351446,100.4609942,4.80683753
+RMEV,AB plpappaaa,Ring motor neuron,5.83516138,78.6458992,59.9427787
+OLQDL,AB alapapapaa,Quadrant outer labial neuron,-35.7404859,97.1956736,6.02298948
+SMBDL,AB alpapapapp,Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally,-66.263403,70.4585031,5.43644619
+SMBVL,AB alpapappp,Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally,-66.263403,70.4585031,5.43644619
+SMDVL,AB alppappaa,Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally,-32.4624408,67.7464346,6.04925994
+RMDL,AB alpppapad,Ring motor neuron/interneuron, many synapses,-18.4445866,72.9057511,5.84511
+RMDDR,AB arappapaa,Ring motor neuron/interneuron, many synapses,52.351446,100.4609942,4.80683753
+SMBDR,AB arappapapp,Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally,52.351446,100.4609942,4.80683753
+SMBVR,AB arappappp,Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally,52.351446,100.4609942,4.80683753
+SMDVR,AB arappppaa,Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally,83.9541519,98.5328461,4.76234736
+RMGL,AB plapaaapp,Ring interneuron,6.20650492,15.5852678,90.0030087
+SMDDL,AB plpapaaaa,Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally,6.00616974,32.4173312,59.6881169
+PVT,AB plpappppa,Interneuron, projects along ventral cord to ring,5.83516138,78.6458992,59.9427787
+OLLR,AB praaapapaa,Lateral outer labial neurons,5.40889045,56.9562231,112.7569178
+SMDDR,AB prpapaaaa,Ring motor neuron/interneuron, has a posteriorly direct ed process that runs sublaterally,4.80504319,136.2956753,100.9138592
+DA7,AB prpppaaap,Ventral cord motor neurons, innervate dorsal muscles,5.133674,217.8451437,98.5931631
+PVR,C aappa,Interneuron, projects along ventral cord to ring,6.22638418,168.2919366,83.4611271
+RIAR,AB alaapppaa,Ring interneuron, many synapses,-8.4398753,91.9005248,5.17762694
+RID,AB alappaapa,Ring interneuron, projects along dorsal cord,-29.0949008,95.0820114,5.57113069
+AVHR,AB alappapaa,Neuron, mainly postsynaptic in ventral cord and presynaptic in the ring,-29.0949008,95.0820114,5.57113069
+RIPL,AB alpapaaaa,Ring/pharynx interneuron, only direct connection between pharynx and ring,-66.263403,70.4585031,5.43644619
+RMDVL,AB alppapaaa,Ring motor neuron/interneuron, many synapses,-32.4624408,67.7464346,6.04925994
+RIPR,AB arappaaaa,Ring/pharynx interneuron, only direct connection between pharynx and ring,52.351446,100.4609942,4.80683753
+RMDVR,AB arapppaaa,Ring motor neuron/interneuron, many synapses,83.9541519,98.5328461,4.76234736
+URADL,AB plaaaaaaa,Ring motor neuron,-60.9516665,88.35762,6.32264004
+AIBL,AB plaapappa,Amphid interneuron,6.43269214,-32.7528332,78.0154295
+ADEL,AB plapaaaapa,Anterior deirid, sensory neuron,6.20650492,15.5852678,90.0030087
+AVBL,AB plpaapaap,Ventral cord interneuron,6.3637262,22.4460988,63.8215222
+AVKL,AB plpapapap,Ring and ventral cord interneuron,6.00616974,32.4173312,59.6881169
+RICL,AB plppaaaapp,Ring interneuron,6.26333381,54.9938958,64.5859714
+DB6,AB plppaappp,Ventral cord motor neurons, innervate dorsal muscles, reciprocal inhibitor,6.26333381,54.9938958,64.5859714
+ADER,AB prapaaaapa,Anterior deirid, sensory neuron,5.82253435,115.5655835,112.4050612
+AVBR,AB prpaapaap,Ventral cord interneuron,4.96258715,131.9111756,107.7020858
+RIR,AB prpapppaa,Ring interneuron,4.93300362,173.6709513,94.6010803
+RICR,AB prppaaaapp,Ring interneuron,5.06206212,162.7268663,107.4456266
+RIMR,AB prppaapap,Ring motor neuron,5.06206212,162.7268663,107.4456266
+RMEL,AB alaaaarlp,Ring motor neuron,-81.5985975,87.2234976,5.16928346
+RMER,AB alaaaarrp,Ring motor neuron,-81.5985975,87.2234976,5.16928346
+ASKL,AB alpppapppa,Amphid neurons, single ciliated endings,-18.4445866,72.9057511,5.84511
+ADFL,AB alpppppaa,Amphid neuron,22.5140479,70.601541,5.58211985
+I1R,AB arapappaa,Pharyngeal interneurons: ant sensory, input from RIP,33.9367556,98.6410857,4.82213683
+CEPDL,AB plaaaaappa,Cephalic neurons, contain dopamine,-60.9516665,88.35762,6.32264004
+AWAL,AB plaapapaa,Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath,6.43269214,-32.7528332,78.0154295
+ASGL,AB plaapapap,Amphid neurons, single ciliated endings,6.43269214,-32.7528332,78.0154295
+AIZL,AB plapaaapav,Amphid interneuron,6.20650492,15.5852678,90.0030087
+PHBL,AB plapppappp,Phasmid neurons, chemosensory,6.19395494,111.7583524,73.5240493
+RIVL,AB plpaapaaa,Ring interneuron,6.3637262,22.4460988,63.8215222
+RIBL,AB plpaappap,Ring interneuron,6.3637262,22.4460988,63.8215222
+DB5,AB plpapappp,Ventral cord motor neurons, innervate dorsal muscles, reciprocal inhibitor,6.00616974,32.4173312,59.6881169
+AIAL,AB plppaappa,Amphid interneuron,6.26333381,54.9938958,64.5859714
+PHAL,AB plpppaapp,Phasmid neurons, chemosensory,5.99063451,113.6772315,61.959837
+ASKR,AB praaaapppa,Amphid neurons, single ciliated endings,5.15299482,21.167555,110.007986
+ASJR,AB praaappppa,Amphid neurons, single ciliated endings,5.40889045,56.9562231,112.7569178
+ASGR,AB praapapap,Amphid neurons, single ciliated endings,5.14714199,82.208755,113.3173064
+PLMR,AB prapappppaa,Posterior lateral microtubule cells, touch receptor neurons,5.79465011,160.6300949,110.6629073
+RIVR,AB prpaapaaa,Ring interneuron,4.96258715,131.9111756,107.7020858
+RIBR,AB prpaappap,Ring interneuron,4.96258715,131.9111756,107.7020858
+CEPVR,AB prpaappppa,Cephalic neurons, contain dopamine,4.96258715,131.9111756,107.7020858
+AVKR,AB prpapapap,Ring and ventral cord interneuron,4.80504319,136.2956753,100.9138592
+RIH,AB prpappaaa,Ring interneuron,4.93300362,173.6709513,94.6010803
+DB4,AB prpappapp,Ventral cord motor neurons, innervate dorsal muscles, reciprocal inhibitor,4.93300362,173.6709513,94.6010803
+PHAR,AB prpppaapp,Phasmid neurons, chemosensory,5.133674,217.8451437,98.5931631
+AVDL,AB alaaapalr,Ventral cord interneuron,-8.4398753,91.9005248,5.17762694
+AVHL,AB alapaaaaa,Neuron, mainly postsynaptic in ventral cord and presynaptic in the ring,-67.2621025,92.4348035,5.80967898
+SAADL,AB alppapapa,Ring interneuron, anteriorly projecting process that runs sublaterally,-32.4624408,67.7464346,6.04925994
+CEMDL,AB plaaaaaap,Male specific cephalic neurons (programmed cell death in hermaphrodite embryo) open to outside, possible function in male chemotaxis toward hermaphrodite,-60.9516665,88.35762,6.32264004
+ASIL,AB plaapapppa,Amphid neurons, single ciliated endings,6.43269214,-32.7528332,78.0154295
+FLPL,AB plapaaapad,Neuron, ciliated ending in head, no supporting cells, associated with ILso,6.20650492,15.5852678,90.0030087
+PLML,AB plapappppaa,Posterior lateral microtubule cells, touch receptor neurons,6.01013009,57.3836941,88.0755065
+HSNL,AB plapppappa,Hermaphrodite specific motor neurons (die in male embryo), innervate vulval muscles, serotonergic,6.19395494,111.7583524,73.5240493
+URAVL,AB plpaaapaa,Ring motor neuron,6.3084672,-14.7597005,63.2827196
+CEPVL,AB plpaappppa,Cephalic neurons, contain dopamine,6.3637262,22.4460988,63.8215222
+DA6,AB plpppaaap,Ventral cord motor neurons, innervate dorsal muscles,5.99063451,113.6772315,61.959837
+ADFR,AB praaappaa,Amphid neuron,5.40889045,56.9562231,112.7569178
+AIBR,AB praapappa,Amphid interneuron,5.14714199,82.208755,113.3173064
+FLPR,AB prapaaapad,Neuron, ciliated ending in head, no supporting cells, associated with ILso,5.82253435,115.5655835,112.4050612
+AIZR,AB prapaaapav,Amphid interneuron,5.82253435,115.5655835,112.4050612
+PHBR,AB prapppappp,Phasmid neurons, chemosensory,5.64377678,213.0416233,99.3856018
+CEMVR,AB prpaapapp,Male specific cephalic neurons (programmed cell death in hermaphrodite embryo) open to outside, possible function in male chemotaxis toward hermaphrodite,4.96258715,131.9111756,107.7020858
+AVL,AB prpappaap,Ring and ventral cord interneuron and an excitatory GABAergic motor neuron for rectal muscles. Few synapses,4.93300362,173.6709513,94.6010803
+AIAR,AB prppaappa,Amphid interneuron,5.06206212,162.7268663,107.4456266
+DB7,AB prppaappp,Ventral cord motor neurons, innervate dorsal muscles, reciprocal inhibitor,5.06206212,162.7268663,107.4456266
+RMDDL,AB alpapapaa,Ring motor neuron/interneuron, many synapses,-66.263403,70.4585031,5.43644619
+CEMVL,AB plpaapapp,Male specific cephalic neurons (programmed cell death in hermaphrodite embryo) open to outside, possible function in male chemotaxis toward hermaphrodite,6.3637262,22.4460988,63.8215222
+RIML,AB plppaapap,Ring motor neuron,6.26333381,54.9938958,64.5859714
+AVER,AB praaaaaaa,Ventral cord interneuron, like AVD but outputs restricted to anterior cord,5.15299482,21.167555,110.007986
+RMDR,AB praaaapad,Ring motor neuron/interneuron, many synapses,5.15299482,21.167555,110.007986
+ASER,AB praaapppaa,Amphid neurons, single ciliated endings,5.40889045,56.9562231,112.7569178
+HSNR,AB prapppappa,Hermaphrodite specific motor neurons (die in male embryo), innervate vulval muscles, serotonergic,5.64377678,213.0416233,99.3856018
+DA8,AB prpapappp,Ventral cord motor neurons, innervate dorsal muscles,4.80504319,136.2956753,100.9138592
+RIS,AB prpappapa,Ring interneuron,4.93300362,173.6709513,94.6010803
+AVG,AB prpapppap,Ventral cord interneuron,4.93300362,173.6709513,94.6010803
+DA5,AB prppapapp,Ventral cord motor neurons, innervate dorsal muscles,5.1738379,192.5125459,102.3732091
+AINL,AB alaaaalal,Ring interneuron,-81.5985975,87.2234976,5.16928346
+AINR,AB alaapaaar,Ring interneuron,-47.4651699,91.3233492,5.15888577
+AVAR,AB alaappapa,Ventral cord interneuron,-8.4398753,91.9005248,5.17762694
+CANL,AB alapaaapa,Process runs along excretory canal, no synapses, essential for survival,-67.2621025,92.4348035,5.80967898
+URYDL,AB alapapapp,Neuron, presynaptic in ring, ending in head,-35.7404859,97.1956736,6.02298948
+AVJL,AB alapapppa,Neuron, synapses like AVHL/R,-35.7404859,97.1956736,6.02298948
+CANR,AB alappappa,Process runs along excretory canal, no synapses, essential for survival,-29.0949008,95.0820114,5.57113069
+ALA,AB alapppaaa,Neuron, sends processes laterally and along dorsal cord,14.7088498,92.7416346,5.49555819
+OLQDR,AB alapppapaa,Quadrant outer labial neuron,14.7088498,92.7416346,5.49555819
+URYDR,AB alapppapp,Neuron, presynaptic in ring, ending in head,14.7088498,92.7416346,5.49555819
+AVJR,AB alapppppa,Neuron, synapses like AVHL/R,14.7088498,92.7416346,5.49555819
+I2L,AB alpappaapa,Pharyngeal interneurons, ant sensory,-20.9189925,66.3669353,5.385505
+I1L,AB alpapppaa,Pharyngeal interneurons: ant sensory, input from RIP,-20.9189925,66.3669353,5.385505
+AVAL,AB alppaaapa,Ventral cord interneuron,-65.5329835,69.8558759,6.04298041
+AVEL,AB alpppaaaa,Ventral cord interneuron, like AVD but outputs restricted to anterior cord,-18.4445866,72.9057511,5.84511
+AFDL,AB alpppapav,Amphid finger cell,-18.4445866,72.9057511,5.84511
+ADLL,AB alppppaad,Amphid neuron,22.5140479,70.601541,5.58211985
+AWBL,AB alpppppap,Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath,22.5140479,70.601541,5.58211985
+ASEL,AB alppppppaa,Amphid neurons, single ciliated endings,22.5140479,70.601541,5.58211985
+ASJL,AB alpppppppa,Amphid neurons, single ciliated endings,22.5140479,70.601541,5.58211985
+I2R,AB arapapaapa,Pharyngeal interneurons, ant sensory,33.9367556,98.6410857,4.82213683
+BAGR,AB arappppap,Neuron, ciliated ending in head, no supporting cells, associated with ILso,83.9541519,98.5328461,4.76234736
+ALML,AB arppaappa,Anterior lateral microtubule cell,42.555416,102.7579532,6.06179809
+ALMR,AB arpppappa,Anterior lateral microtubule cell,92.9729358,104.1215627,5.72025122
+URXL,AB plaaaaappp,Ring interneuron,-60.9516665,88.35762,6.32264004
+URBL,AB plaapaapa,Neuron, presynaptic in ring, ending in head,6.43269214,-32.7528332,78.0154295
+ALNL,AB plapappppap,Neuron associated with ALM,6.01013009,57.3836941,88.0755065
+AWCL,AB plpaaaaap,Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath,6.3084672,-14.7597005,63.2827196
+OLQVL,AB plpaaappaa,Quadrant outer labial neuron,6.3084672,-14.7597005,63.2827196
+URYVL,AB plpaaappp,Neuron, presynaptic in ring, ending in head,6.3084672,-14.7597005,63.2827196
+ASHL,AB plpaappaa,Amphid neurons, single ciliated endings,6.3637262,22.4460988,63.8215222
+AIML,AB plpaapppa,Ring interneuron,6.3637262,22.4460988,63.8215222
+AIYL,AB plpapaaap,Amphid interneuron,6.00616974,32.4173312,59.6881169
+RIFL,AB plppapaaap,Ring interneuron,6.12699794,93.3351441,65.9829629
+DA2,AB plppapapa,Ventral cord motor neurons, innervate dorsal muscles,6.12699794,93.3351441,65.9829629
+DA4,AB plppapapp,Ventral cord motor neurons, innervate dorsal muscles,6.12699794,93.3351441,65.9829629
+RIGL,AB plppappaa,Ring interneuron,6.12699794,93.3351441,65.9829629
+DD3,AB plppapppa,Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during L1,6.12699794,93.3351441,65.9829629
+DD5,AB plppapppp,Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during L1,6.12699794,93.3351441,65.9829629
+DA9,AB plpppaaaa,Ventral cord motor neurons, innervate dorsal muscles,5.99063451,113.6772315,61.959837
+PVCL,AB plpppaapaa,Ventral cord interneuron, cell body in lumbar ganglion, synapses onto VB and DB motor neurons, formerly called delta,5.99063451,113.6772315,61.959837
+AFDR,AB praaaapav,Amphid finger cell,5.15299482,21.167555,110.007986
+ADLR,AB praaapaad,Amphid neuron,5.40889045,56.9562231,112.7569178
+AWBR,AB praaappap,Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath,5.40889045,56.9562231,112.7569178
+URBR,AB praapaapa,Neuron, presynaptic in ring, ending in head,5.14714199,82.208755,113.3173064
+AWAR,AB praapapaa,Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath,5.14714199,82.208755,113.3173064
+ASIR,AB praapapppa,Amphid neurons, single ciliated endings,5.14714199,82.208755,113.3173064
+RMGR,AB prapaaapp,Ring interneuron,5.82253435,115.5655835,112.4050612
+ALNR,AB prapappppap,Neuron associated with ALM,5.79465011,160.6300949,110.6629073
+URAVR,AB prpaaapaa,Ring motor neuron,4.88779475,93.0739383,107.8435456
+URYVR,AB prpaaappp,Neuron, presynaptic in ring, ending in head,4.88779475,93.0739383,107.8435456
+ASHR,AB prpaappaa,Amphid neurons, single ciliated endings,4.96258715,131.9111756,107.7020858
+AIMR,AB prpaapppa,Ring interneuron,4.96258715,131.9111756,107.7020858
+AIYR,AB prpapaaap,Amphid interneuron,4.80504319,136.2956753,100.9138592
+RIFR,AB prppapaaap,Ring interneuron,5.1738379,192.5125459,102.3732091
+DA1,AB prppapaap,Ventral cord motor neurons, innervate dorsal muscles,5.1738379,192.5125459,102.3732091
+DA3,AB prppapapa,Ventral cord motor neurons, innervate dorsal muscles,5.1738379,192.5125459,102.3732091
+RIGR,AB prppappaa,Ring interneuron,5.1738379,192.5125459,102.3732091
+PVCR,AB prpppaapaa,Ventral cord interneuron, cell body in lumbar ganglion, synapses onto VB and DB motor neurons, formerly called delta,5.133674,217.8451437,98.5931631
+DVA,AB prppppapp,Ring interneurons, cell bodies in dorsorectal ganglion,5.26471423,217.7654477,88.8015273
+BAGL,AB alppappap,Neuron, ciliated ending in head, no supporting cells, associated with ILso,-32.4624408,67.7464346,6.04925994
+DD1,AB plppappap,Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during L1,6.12699794,93.3351441,65.9829629
+PVPL,AB plppppaaa,Interneuron, cell body in preanal ganglion, projects along ventral cord to nerve ring,6.20954346,146.9105188,63.8430948
+AWCR,AB prpaaaaap,Amphid wing cells, neurons having ciliated sheet-like sensory endings closely associated with amphid sheath,4.88779475,93.0739383,107.8435456
+OLQVR,AB prpaaappaa,Quadrant outer labial neuron,4.88779475,93.0739383,107.8435456
+DD2,AB prppappap,Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during L1,5.1738379,192.5125459,102.3732091
+DD6,AB prppapppp,Ventral cord motor neurons, reciprocal inhibitors, change synaptic pattern during L1,5.1738379,192.5125459,102.3732091
+PDA,AB prpppaaaa,Motor neuron, process in dorsal cord, same as Y cell in hermaphrodite, Y.a in male,5.133674,217.8451437,98.5931631
+DVC,C aapaa,Ring interneurons, cell bodies in dorsorectal ganglion,6.22638418,168.2919366,83.4611271
